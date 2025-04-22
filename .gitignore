@@ -1,0 +1,19 @@
+# Node.js (на случай, если вы решите использовать npm)
+node_modules/
+dist/
+.env
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Бэкапы и временные файлы
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Изображения кеша браузеров и IDE
+Thumbs.db
